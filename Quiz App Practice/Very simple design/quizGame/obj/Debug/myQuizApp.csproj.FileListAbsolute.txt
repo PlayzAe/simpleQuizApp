@@ -1,0 +1,10 @@
+C:\Users\Moses\Downloads\Quiz-Game-Tutorial-Windows-Form-main\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\myQuizApp.csproj.AssemblyReference.cache
+C:\Users\Moses\Downloads\Quiz-Game-Tutorial-Windows-Form-main\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\quizGame.Form1.resources
+C:\Users\Moses\Downloads\Quiz-Game-Tutorial-Windows-Form-main\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\myQuizApp.csproj.GenerateResource.cache
+C:\Users\Moses\Downloads\Quiz-Game-Tutorial-Windows-Form-main\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\quizGame.exe
+C:\Users\Moses\Downloads\Quiz-Game-Tutorial-Windows-Form-main\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\quizGame.pdb
+C:\Users\Moses\Downloads\Quiz-Game-Tutorial-Windows-Form-main\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\quizGame.exe.config
+C:\Users\Moses\Downloads\Quiz-Game-Tutorial-Windows-Form-main\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\quizGame.exe
+C:\Users\Moses\Downloads\Quiz-Game-Tutorial-Windows-Form-main\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\quizGame.pdb
+C:\Users\Moses\Downloads\Quiz-Game-Tutorial-Windows-Form-main\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\quizGame.Properties.Resources.resources
+C:\Users\Moses\Downloads\Quiz-Game-Tutorial-Windows-Form-main\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\myQuizApp.csproj.CoreCompileInputs.cache
