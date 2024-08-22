@@ -2,24 +2,29 @@
 
 I created this simple quiz application as a learning tool to practice handling conditional statements in C#. The app presents a series of questions with multiple-choice answers. By selecting an answer, users interact with the app, which then calculates and displays their score and percentage at the end of the quiz.
 
-Features:
+# Features:
 Questions displayed with images.
 Multiple-choice answers for user selection.
 Score and percentage calculation at the end of the quiz.
 Option to restart the quiz.
-Purpose:
-This project is my personal initiative to gain hands-on experience with conditional statements in C#. It demonstrates how to manage user input and control the program's flow based on various conditions.
 
-## Roadmap
+# Purpose:
+This project is my personal initiative to gain hands-on experience with conditional statements in C#. 
+It demonstrates how to manage user input and control the program's flow based on various conditions.
 
-- Additional browser support
-
-- Add more integrations
 
 
 ## Optimizations
 
-What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
+I built a straightforward quiz app using C# and Windows Forms, featuring 5 questions with 4 answer choices each. 
+
+To optimize the code, I refactored it for better readability and maintainability. 
+
+I improved performance by optimizing how questions and answers are handled and displayed. 
+
+For accessibility, I ensured that keyboard navigation is smooth and that all labels are properly linked with their controls. 
+
+Finally, I enhanced the user experience with a simple and clean not so good design.
 
 
 ## Additional GitHub Profile Details
