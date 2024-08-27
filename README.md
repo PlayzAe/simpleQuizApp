@@ -42,7 +42,7 @@ It demonstrates how to manage user input and control the program's flow based on
 
 ## Badges
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=PlayzAe)
+None yet ☠️
 
 
 ## Installation
